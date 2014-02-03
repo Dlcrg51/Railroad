@@ -13,10 +13,10 @@ a {color: #990000;}
 #submenu-container, .menustyle2 #horiz-menu li.active a, .menustyle2 #horiz-menu li.active .separator, .sidenav-block, .moduletable_menu {background-color: #990000;}
 .module-hilite5, .moduletable-hilite5, .module-hilite7, .moduletable-hilite7 {background: #990000;}
 .module-hilite2 h3 span, .moduletable-hilite2 h3 span, .module-hilite2 a, .moduletable-hilite2 a, ul.menu li.active.parent a:hover, ul.menu li.active.parent .separator:hover, ul.menu li.active.parent li.active.parent a:hover, ul.menu li.active.parent li.active.parent .separator:hover, ul.menu li.active li.active a, ul.menu li.active li.active .separator, ul.menu li.active.parent ul li.active.parent a.daddy, ul.menu li.active.parent ul li.active.parent .separator.daddy, ul.menu li.active li.active li.active a, ul.menu li.active li.active li.active .separator, .menustyle2 #sub-menu a:hover, .menustyle2 #sub-menu ul.menusub li.active a {color: #990000;}
-#horiz-menu {border-top: 1px solid #990000;}
+#horiz-menu {border-top: 0px none}
 
 .module-hilite5 h3 span, .moduletable-hilite5 h3 span, .module-hilite5 a, .moduletable-hilite5 a, .module-hilite7 h3 span, .moduletable-hilite7 h3 span, .module-hilite7 a, .moduletable-hilite7 a, ul.menu a:hover, ul.menu .separator:hover, ul.menu li.active a, ul.menu li.active .separator, .menustyle2 #horiz-menu li.active a, .menustyle2 #horiz-menu li.active .separator, .menustyle2 #horiz-menu li a:hover, .menustyle2 #horiz-menu li .separator:hover, .menustyle2 #sub-menu a, .menustyle3 #sub-menu a, .menustyle4 #sub-menu a, .moduletable-hilite7 a#active_menu.mainlevel, .moduletable-hilite7 a#active_menu.sublevel, .moduletable-hilite7 a.mainlevel:hover, .moduletable-hilite7 a.sublevel:hover {color: #BEC97C;}
-#horiz-menu ul ul li a:hover {color: #BEC97C !important;}
+#horiz-menu ul ul li a:hover {color: #EDCFCF !important;}
 
 .module-hilite6, .moduletable-hilite6 {background: #7F981E;border: 1px solid #6C7E16;}
 .module-hilite8, .moduletable-hilite8 {background: #7F981E;}
@@ -67,10 +67,10 @@ tr.sectiontableentry1 td, td.sectiontableentry1 {background: #f7f7f7 url(../imag
 
 #horiz-menu ul ul {border: 1px solid #fff;}
 #bottom, #bottom-menu {border-right: 1px solid #bbb;border-left: 1px solid #bbb;}
-ul.menu li, .moduletable-hilite7 table td {border-bottom: 1px solid #474F1D; background-color: #990000; width: 92px;}
+ul.menu li, .moduletable-hilite7 table td {border-bottom: 0px none;}
 .moduletable-hilite8 table td {border-bottom: 1px solid #6C7E16;}
 .moduletable-hilite9 table td {border-bottom: 1px solid #c7c7c7;}
-ul.menu li.active.parent {border: 1px solid #9CA75C;}
+ul.menu li.active.parent {border: 0px none;}
 .tool-tip {border: 1px solid #e6e6e6;}
 tr.sectiontableentry1 td, tr.sectiontableentry2 td, td.sectiontableentry1, td.sectiontableentry2 {border-bottom: 1px solid #f1f1f1;}
 

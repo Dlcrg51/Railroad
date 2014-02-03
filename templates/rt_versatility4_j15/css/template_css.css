@@ -171,7 +171,6 @@ body.noicon .module-hilite1 h3, body.noicon .moduletable-hilite1 h3, body.noicon
 #horiz-menu li li a, #horiz-menu li li .separator {font-size: 100%;font-weight: normal;background: none;padding: 0;margin: 0;}
 #horiz-menu li li, #horiz-menu li li a span, #horiz-menu li li .separator span {background: none;padding: 0;margin: 0;}
 #horiz-menu li li a span, #horiz-menu li li .separator span {padding: 0;}
-#horiz-menu li.sfHover li a, #horiz-menu li:hover li a, #horiz-menu ul li.active ul li.active li a, #horiz-menu ul li.active.parent ul li a, #horiz-menu li.sfHover li .separator, #horiz-menu li:hover li .separator, #horiz-menu ul li.active.parent ul li .separator, #horiz-menu ul li.active.parent ul li .seperator {text-indent: 15px;background: none !important;}
 #horiz-menu li.active li a, #horiz-menu li.active.parent li a, #horiz-menu li.active li .separator, #horiz-menu li.active.parent li .separator {font-weight: normal;font-size: 100%;background: none !important;}
 #horiz-menu ul ul {margin: 0;padding: 0;border-top: 0;}
 #horiz-menu ul ul li:hover {background: none !important;}
@@ -185,7 +184,6 @@ a.sublevel {height: 28px;line-height: 28px;margin: 0;padding: 0 0 0 12px;}
 ul.menu {margin:0;padding: 0 0 35px 0;}
 ul.menu li {list-style: none;margin: 0;padding: 0;float: none;}
 ul.menu span {display: block; height: 34px;line-height: 34px;}
-ul.menu li a, ul.menu li .separator {text-indent: 10px;}
 ul.menu ul li a, ul.menu ul li .separator {text-indent: 25px;}
 ul.menu ul li ul li a, ul.menu ul li ul li .separator {text-indent: 45px;}
 ul.menu ul li ul li ul li a, ul.menu ul li ul li ul li .separator {text-indent: 65px;}
@@ -202,7 +200,7 @@ ul.menu ul li {border: 0;}
 ul.menu ul ul {padding: 0; margin: 0;background: none;}
 ul.menu li li {padding: 0;margin: 0;border-bottom: 0;}
 ul.menu ul a, ul.menu ul .separator {text-indent: 0;}
-ul.menu li.active a, ul.menu li.active a:hover, ul.menu li.active .separator, ul.menu li.active .separator:hover {text-decoration: none; line-height: 26px;}
+ul.menu li.active a, ul.menu li.active a:hover, ul.menu li.active .separator, ul.menu li.active .separator:hover {text-decoration: none;}
 ul.menu li a:hover, ul.menu li .separator:hover {text-decoration: none;}
 ul.menu li.active ul {margin-top: 0;margin-bottom: 0;padding-top: 5px;padding-bottom: 5px;}
 ul.menu ul {padding: 0;margin: 0 12px;}
@@ -348,6 +346,24 @@ input#mod_login_username.inputbox, input#mod_login_password.inputbox, input#modl
 #horiz-menu.moomenu {
 	width: 100%;
 	height: 43px;
+}
+
+#horiz-menu .nav > li {
+	background: url(../images/style9/menustyle4/4-horiz-menu-div.png) 100% 50% no-repeat;
+	padding-left: 3px;
+}
+
+#horiz-menu li.active a, #horiz-menu li.active .separator {
+	background: url(../images/style9/menustyle4/4-horiz-menu-active.png) 50% 0 no-repeat;
+}
+
+#horiz-menu .nav-pills > li > a {
+	margin-top: 0px;
+}
+
+#horiz-menu .nav > li > a:hover, #horiz-menu .nav > li > a:focus {
+	text-decoration: none;
+	background-color: transparent;
 }
 
 /* @end */
