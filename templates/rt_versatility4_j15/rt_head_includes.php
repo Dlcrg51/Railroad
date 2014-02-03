@@ -23,7 +23,7 @@
 	div.wrapper { <?php echo $template_width; ?>padding:0;}
 	#leftcol { width:<?php echo $leftcolumn_width; ?>px;padding:0;}
 	#rightcol { width:<?php echo $rightcolumn_width; ?>px;padding:0;}
-	#maincol { margin-left:<?php echo $leftcolumn_width; ?>px;margin-right:<?php echo $rightcolumn_width; ?>px;padding:0;}
+	#maincol { margin-left:<?php echo $leftcolumn_width; ?>px;padding:0;}
 	#mainblock {margin-left:<?php echo $leftbanner_width; ?>px;margin-right:<?php echo $rightbanner_width; ?>px;padding:0;}
 	#leftbanner { width:<?php echo $leftbanner_width; ?>px;padding:0;}
 	#rightbanner { width:<?php echo $rightbanner_width; ?>px;padding:0;}

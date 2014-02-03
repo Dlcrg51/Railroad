@@ -2,13 +2,12 @@
 // no direct access
 defined( '_JEXEC' ) or die( 'Restricted index access' );
 define( 'YOURBASEPATH', dirname(__FILE__) );
-require( YOURBASEPATH.DS."rt_styleswitcher.php");
-JHTML::_( 'behavior.mootools' );
+require( YOURBASEPATH."/rt_styleswitcher.php");
 global $template_real_width, $leftcolumn_width, $rightcolumn_width, $leftbanner_width, $rightbanner_width, $tstyle;
 global $show_moduleslider,$js_compatibility,$moduleslider_location;
 
 
-$live_site        		= $mainframe->getCfg('live_site');
+$live_site        		= JUri::root();
 $template_path 			= $this->baseurl . '/templates/' .  $this->template;
 $default_style 			= $this->params->get("defaultStyle", "style2");
 $menu_style				= $this->params->get("menuStyle", "menustyle3");
@@ -93,9 +92,9 @@ $ms_module10				= $this->params->get("msModule10", "user20");
 	<head>
 		<jdoc:include type="head" />
 		<?php
-		require(YOURBASEPATH . DS . "rt_tabmodules.php");
-		require(YOURBASEPATH . DS . "rt_utils.php");
-		require(YOURBASEPATH . DS . "rt_head_includes.php");
+		require(YOURBASEPATH . "/rt_tabmodules.php");
+		require(YOURBASEPATH . "/rt_utils.php");
+		require(YOURBASEPATH . "/rt_head_includes.php");
 
 	?>
 	</head>
@@ -152,17 +151,9 @@ $ms_module10				= $this->params->get("msModule10", "user20");
 		<?php endif; ?>
 		<?php if($mtype != "none") : ?>
 		<div id="horiz-menu" class="<?php echo $mtype; ?>">
-			<?php if($hwrap == "false") : ?>
-			<div class="wrapper">
-			<?php endif; ?>
-			<?php if($mtype != "module") : ?>
-				<?php echo $topnav; ?>
-			<?php else: ?>
+        	<div class="wrapper">
 				<jdoc:include type="modules" name="toolbar" style="none" />
-			<?php endif; ?>
-			<?php if($hwrap == "false") : ?>
-			</div>
-			<?php endif; ?>
+            </div>
 		</div>
 		<?php else: ?>
 		<div id="header-divider"></div>
