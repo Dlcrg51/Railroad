@@ -16,7 +16,7 @@ a {color: #BA870B;}
 #horiz-menu {border-top: 0px none}
 
 .module-hilite5 h3 span, .moduletable-hilite5 h3 span, .module-hilite5 a, .moduletable-hilite5 a, .module-hilite7 h3 span, .moduletable-hilite7 h3 span, .module-hilite7 a, .moduletable-hilite7 a, ul.menu a:hover, ul.menu .separator:hover, ul.menu li.active a, ul.menu li.active .separator, .menustyle2 #horiz-menu li.active a, .menustyle2 #horiz-menu li.active .separator, .menustyle2 #horiz-menu li a:hover, .menustyle2 #horiz-menu li .separator:hover, .menustyle2 #sub-menu a, .menustyle3 #sub-menu a, .menustyle4 #sub-menu a, .moduletable-hilite7 a#active_menu.mainlevel, .moduletable-hilite7 a#active_menu.sublevel, .moduletable-hilite7 a.mainlevel:hover, .moduletable-hilite7 a.sublevel:hover {color: #B1B4AE;}
-#horiz-menu ul ul li a:hover {color: #EDCFCF !important;}
+#horiz-menu ul ul li a:hover {color: #B1B4AE !important;}
 
 .module-hilite6, .moduletable-hilite6 {background: #7F981E;border: 1px solid #6C7E16;}
 .module-hilite8, .moduletable-hilite8 {background: #7F981E;}
