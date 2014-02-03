@@ -366,4 +366,12 @@ input#mod_login_username.inputbox, input#mod_login_password.inputbox, input#modl
 	background-color: transparent;
 }
 
+table.category {
+	width: 85%;
+}
+
+table.category thead tr th a, th.item-phone {
+	float: left;
+}
+
 /* @end */
