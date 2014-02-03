@@ -2,20 +2,20 @@
 
 /* Primary Colors */
 
-body {background: #ffffff;}
+body {background: #777865;}
 
-a {color: #990000;}
+a {color: #BA870B;}
 
-#horiz-menu {background-color: #990000;}
-#horiz-menu ul ul, ul.menu li.active.parent ul, ul.menu li.active.parent {background: #990000;}
+#horiz-menu {background-color: #474A43;}
+#horiz-menu ul ul, ul.menu li.active.parent ul, ul.menu li.active.parent {background: #474A43;}
 .contentheading, h1, h4, .module h3 span, .moduletable h3 span, .submenu-block h3 span, .module-clean h3 span, .moduletable-clean h3 span, .module-hilite4 h3 span, .moduletable-hilite4 h3 span, a#active_menu.mainlevel, a.mainlevel:hover, a#active_menu.sublevel, a.sublevel:hover, #rokslide-toolbar li.current, #rokslide-toolbar li:hover {color: #990000;}
 
 #submenu-container, .menustyle2 #horiz-menu li.active a, .menustyle2 #horiz-menu li.active .separator, .sidenav-block, .moduletable_menu {background-color: #990000;}
-.module-hilite5, .moduletable-hilite5, .module-hilite7, .moduletable-hilite7 {background: #990000;}
+.module-hilite5, .moduletable-hilite5, .module-hilite7, .moduletable-hilite7 {background: #2B2E2A;}
 .module-hilite2 h3 span, .moduletable-hilite2 h3 span, .module-hilite2 a, .moduletable-hilite2 a, ul.menu li.active.parent a:hover, ul.menu li.active.parent .separator:hover, ul.menu li.active.parent li.active.parent a:hover, ul.menu li.active.parent li.active.parent .separator:hover, ul.menu li.active li.active a, ul.menu li.active li.active .separator, ul.menu li.active.parent ul li.active.parent a.daddy, ul.menu li.active.parent ul li.active.parent .separator.daddy, ul.menu li.active li.active li.active a, ul.menu li.active li.active li.active .separator, .menustyle2 #sub-menu a:hover, .menustyle2 #sub-menu ul.menusub li.active a {color: #990000;}
 #horiz-menu {border-top: 0px none}
 
-.module-hilite5 h3 span, .moduletable-hilite5 h3 span, .module-hilite5 a, .moduletable-hilite5 a, .module-hilite7 h3 span, .moduletable-hilite7 h3 span, .module-hilite7 a, .moduletable-hilite7 a, ul.menu a:hover, ul.menu .separator:hover, ul.menu li.active a, ul.menu li.active .separator, .menustyle2 #horiz-menu li.active a, .menustyle2 #horiz-menu li.active .separator, .menustyle2 #horiz-menu li a:hover, .menustyle2 #horiz-menu li .separator:hover, .menustyle2 #sub-menu a, .menustyle3 #sub-menu a, .menustyle4 #sub-menu a, .moduletable-hilite7 a#active_menu.mainlevel, .moduletable-hilite7 a#active_menu.sublevel, .moduletable-hilite7 a.mainlevel:hover, .moduletable-hilite7 a.sublevel:hover {color: #BEC97C;}
+.module-hilite5 h3 span, .moduletable-hilite5 h3 span, .module-hilite5 a, .moduletable-hilite5 a, .module-hilite7 h3 span, .moduletable-hilite7 h3 span, .module-hilite7 a, .moduletable-hilite7 a, ul.menu a:hover, ul.menu .separator:hover, ul.menu li.active a, ul.menu li.active .separator, .menustyle2 #horiz-menu li.active a, .menustyle2 #horiz-menu li.active .separator, .menustyle2 #horiz-menu li a:hover, .menustyle2 #horiz-menu li .separator:hover, .menustyle2 #sub-menu a, .menustyle3 #sub-menu a, .menustyle4 #sub-menu a, .moduletable-hilite7 a#active_menu.mainlevel, .moduletable-hilite7 a#active_menu.sublevel, .moduletable-hilite7 a.mainlevel:hover, .moduletable-hilite7 a.sublevel:hover {color: #B1B4AE;}
 #horiz-menu ul ul li a:hover {color: #EDCFCF !important;}
 
 .module-hilite6, .moduletable-hilite6 {background: #7F981E;border: 1px solid #6C7E16;}
@@ -32,11 +32,11 @@ a {color: #990000;}
 .module-hilite1 h3 span, .moduletable-hilite1 h3 span, .module-hilite1 a, .moduletable-hilite1 a, #news-rotator h1, #news-rotator h1 a {color: #66847E;}
 
 #bottom-menu #mainlevel-bottom a {color: #DAEBED;}
-#bottom, #bottommodules .module h3 span, .footer-module .moduletable h3 span {color: #3F504E;}
+#bottom, #bottommodules .module h3 span, .footer-module .moduletable h3 span {color: #A3A38D;}
 
 /* Neutral Colors */
 
-#bottom a, a.readon2:hover, .module input.button:hover, .moduletable input.button:hover {color: #000;}
+#bottom a, a.readon2:hover, .module input.button:hover, .moduletable input.button:hover {color: #C3C5AA;}
 
 body, .componentheading, h2, .module h3, .moduletable h3, .submenu-block h3, .module-clean h3, .moduletable-clean h3, #bottommodules .module h3, .footer-module .moduletable h3, body.icon1 .module-hilite1 h3, body.icon1 .moduletable-hilite1 h3, body.icon1 .module-hilite2 h3, body.icon1 .moduletable-hilite2 h3, body.icon1 .module-hilite3 h3, body.icon1 .moduletable-hilite3 h3, body.icon1 .module-hilite4 h3, body.icon1 .moduletable-hilite4 h3, body.icon2 .module-hilite1 h3, body.icon2 .moduletable-hilite1 h3, body.icon2 .module-hilite2 h3, body.icon2 .moduletable-hilite2 h3, body.icon2 .module-hilite3 h3, body.icon2 .moduletable-hilite3 h3, body.icon2 .module-hilite4 h3, body.icon2 .moduletable-hilite4 h3, body.icon3 .module-hilite1 h3, body.icon3 .moduletable-hilite1 h3, body.icon3 .module-hilite2 h3, body.icon3 .moduletable-hilite2 h3, body.icon3 .module-hilite3 h3, body.icon3 .moduletable-hilite3 h3, body.icon3 .module-hilite4 h3, body.icon3 .moduletable-hilite4 h3, #bottom-menu #mainlevel-bottom a:hover, #bottom-menu #mainlevel-bottom a#active_menu.mainlevel, #headerblock-right, .logo-module, #searchmod .inputbox, a.readon2, a.readon2:hover {color: #333;}
 
@@ -49,7 +49,7 @@ span.small, td.createdate, td.modifydate, .module-hilite3 h3 span, .moduletable-
 #main-body, #moduleslider-size {background-color: #fff;}
 
 #header-bar {background-color: #EFEFEF;}
-#bottom {background: #D4D4D4;}
+#bottom {background: #5A5B4D;}
 #topbanner {background: #fbfbfb;}
 .tool-tip {background: #f6f6f6;}
 tr.sectiontableentry1 td, td.sectiontableentry1 {background: #f7f7f7 url(../images/module-h3.png) 0 0 repeat-x;}
