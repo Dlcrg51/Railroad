@@ -349,12 +349,12 @@ input#mod_login_username.inputbox, input#mod_login_password.inputbox, input#modl
 }
 
 #horiz-menu .nav > li {
-	background: url(../images/style9/menustyle4/4-horiz-menu-div.png) 100% 50% no-repeat;
+	background: url(../images/style3/menustyle4/4-horiz-menu-div.png) 100% 50% no-repeat;
 	padding-left: 3px;
 }
 
 #horiz-menu li.active a, #horiz-menu li.active .separator {
-	background: url(../images/style9/menustyle4/4-horiz-menu-active.png) 50% 0 no-repeat;
+	background: url(../images/style3/menustyle4/4-horiz-menu-active.png) 50% 0 no-repeat;
 }
 
 #horiz-menu .nav-pills > li > a {
