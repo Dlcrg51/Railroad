@@ -8,7 +8,7 @@ a {color: #BA870B;}
 
 #horiz-menu {background-color: #474A43;}
 #horiz-menu ul ul, ul.menu li.active.parent ul, ul.menu li.active.parent {background: #474A43;}
-.contentheading, h1, h4, .module h3 span, .moduletable h3 span, .submenu-block h3 span, .module-clean h3 span, .moduletable-clean h3 span, .module-hilite4 h3 span, .moduletable-hilite4 h3 span, a#active_menu.mainlevel, a.mainlevel:hover, a#active_menu.sublevel, a.sublevel:hover, #rokslide-toolbar li.current, #rokslide-toolbar li:hover {color: #990000;}
+.contentheading, h1, h4, .module h3 span, .moduletable h3 span, .submenu-block h3 span, .module-clean h3 span, .moduletable-clean h3 span, .module-hilite4 h3 span, .moduletable-hilite4 h3 span, a#active_menu.mainlevel, a.mainlevel:hover, a#active_menu.sublevel, a.sublevel:hover, #rokslide-toolbar li.current, #rokslide-toolbar li:hover {color: #BA870B;}
 
 #submenu-container, .menustyle2 #horiz-menu li.active a, .menustyle2 #horiz-menu li.active .separator, .sidenav-block, .moduletable_menu {background-color: #990000;}
 .module-hilite5, .moduletable-hilite5, .module-hilite7, .moduletable-hilite7 {background: #2B2E2A;}

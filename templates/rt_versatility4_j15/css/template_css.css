@@ -147,7 +147,7 @@ body.noicon .module-hilite1 h3, body.noicon .moduletable-hilite1 h3, body.noicon
 .footer-module .moduletable h3 {background: none;}
 .module-hilite7, .moduletable-hilite7, .module-hilite8, .moduletable-hilite8, .module-hilite9, .moduletable-hilite9 {padding: 15px;margin-bottom: 0px;}
 .module-hilite7 h3, .moduletable-hilite7 h3, .module-hilite8 h3, .moduletable-hilite8 h3, .module-hilite9 h3, .moduletable-hilite9 h3 {margin-top: 0;font-size: 130%;}
-#rightcol .moduletable-hilite7, #leftcol .moduletable-hilite7, #rightcol .moduletable-hilite8, #leftcol .moduletable-hilite8, #rightcol .moduletable-hilite9, #leftcol .moduletable-hilite9 {margin-top: -1px;}
+#rightcol .moduletable-hilite7, #leftcol .moduletable-hilite7, #rightcol .moduletable-hilite8, #leftcol .moduletable-hilite8, #rightcol .moduletable-hilite9, #leftcol .moduletable-hilite9 {margin-top: 0px;}
 #pathway-module .moduletable {padding: 15px;margin-bottom: 15px;}
 .moduletable_menu {padding: 10px 5px 5px 5px;margin-top: -1px;}
 .moduletable_text {padding: 15px;margin-bottom: 10px;}
